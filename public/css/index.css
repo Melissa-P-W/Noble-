@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    color: white;
+}
+
+:root {
+    --buttonColor: rgb(255, 0, 0)
+}
+
+.footer {
+    background-color: rgb(1, 123, 255);
+    color: white;
+    margin-top: 60px;
+}
+
+.card-group{
+    margin-top: 60px;
+}
